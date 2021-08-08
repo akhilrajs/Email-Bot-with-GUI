@@ -215,7 +215,7 @@ class Ui_main(object):
         global _translate
         _translate = QtCore.QCoreApplication.translate
         main.setWindowTitle(_translate("main", "Email bot"))
-        self.label.setText(_translate("main", "created by akhil raj s "))
+        self.label.setText(_translate("main", "")
         self.sender_mail_id_label.setText(_translate("main", "Sender mail ID :"))
         self.sender_mail_id.setText(_translate("main", "Put_Mail_ID_Here_@gmail.com"))
         self.sender_mail_password_label.setText(_translate("main", "Sender mail Password :"))
