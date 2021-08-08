@@ -1,8 +1,10 @@
 # Email-Bot-with-GUI
 This application allows you to send emails to multiple number of people at the same time quickly with ease
 
-# Windows Installation File Link : https://drive.google.com/file/d/1QXsjpOZHgwSfBX7315fwkYvHwhPPSAQE/view?usp=drivesdk
- contact me @ https://wa.me/message/OMSUY4Y5PZFNE1
+# Windows Installation File Link : 
+<a href="https://drive.google.com/file/d/1QXsjpOZHgwSfBX7315fwkYvHwhPPSAQE/view?usp=drivesdk">Click Here </a> to download the installation file
+
+<a href="https://wa.me/message/OMSUY4Y5PZFNE1">Contact me</a>
 
 - just open the app
 ![image](https://user-images.githubusercontent.com/67222042/99880529-e2842080-2c39-11eb-916f-5b20b656f037.png)
