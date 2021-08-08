@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Email-Bot-with-GUI
+This application allows you to send emails to multiple number of people at the same time quickly with ease
 
-You can use the [editor on GitHub](https://github.com/akhilrajs/Email-Bot-with-GUI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Windows Installation File Link : https://drive.google.com/file/d/1QXsjpOZHgwSfBX7315fwkYvHwhPPSAQE/view?usp=drivesdk
+ contact me @ https://wa.me/message/OMSUY4Y5PZFNE1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- just open the app
+![image](https://user-images.githubusercontent.com/67222042/99880529-e2842080-2c39-11eb-916f-5b20b656f037.png)
 
-### Markdown
+- fill in the details of the account you use to send the emails
+note : if you are using Gmail be sure to switch on third party access in security setting of google
+![image](https://user-images.githubusercontent.com/67222042/99880567-27a85280-2c3a-11eb-86dc-6468e5c5ade8.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-type in the details of your email and if you have an attachment just drag drop it to the attachment location bar and give the name of the attachment along with the extension(.jpg, .png ,etc) like for example : image.png
+![image](https://user-images.githubusercontent.com/67222042/99880593-676f3a00-2c3a-11eb-9bc6-bb4947c1c13e.png)
 
-```markdown
-Syntax highlighted code block
+-copy paste the list of email ids you want to send the emails to as well as the corresponding names
+![image](https://user-images.githubusercontent.com/67222042/99880607-7bb33700-2c3a-11eb-8fef-2340c19ceee9.png)
 
-# Header 1
-## Header 2
-### Header 3
+-after everything is ready hit send emails
+![image](https://user-images.githubusercontent.com/67222042/99880627-97b6d880-2c3a-11eb-98f3-30fc5aac7b43.png)
 
-- Bulleted
-- List
+-if you get bored and have nothing else to do play some music using Google Music section also 
+![image](https://user-images.githubusercontent.com/67222042/99880636-aac9a880-2c3a-11eb-9b83-7101f9701724.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akhilrajs/Email-Bot-with-GUI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+DONATE IF you find this useful and support me @
+GPay : 6282915491
